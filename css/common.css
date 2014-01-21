@@ -1,0 +1,10 @@
+#controlPanel{
+  width: 300px;
+  float: left;
+}
+
+#rndrFrame{
+  width: 1024px;
+  height: 700px;
+  float: left;
+}
